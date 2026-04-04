@@ -3,6 +3,7 @@
 
 #include <algorithm>
 #include <stdarg.h>
+#include <stdint.h>
 #include <cstring>
 #include "utils/han.h"
 
